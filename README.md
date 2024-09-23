@@ -25,6 +25,6 @@ https://github.com/arpan-pramanik/Black-OPS-OzoneX
 TEAM:
 Arpan Pramanik
 Rohan Kumar Mohanta
-K. Yaswanth Asish Gupta
+K.Yaswanth Asish Gupta
 Hariharan Kalyana Sundaram
 Rahul Rajith
